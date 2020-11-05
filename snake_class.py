@@ -18,7 +18,7 @@ class snake(reptile):
 # instantiate this class/create an object
 # this is now a double inheritance
 
-snake_object = snake()
-
-print(snake_object.limbs)
-print(snake_object.breathe())
+# snake_object = snake()
+#
+# print(snake_object.limbs)
+# print(snake_object.breathe())
