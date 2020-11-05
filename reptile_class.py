@@ -26,13 +26,13 @@ class reptile(animal):
 
 # time to create an object of our reptile class to utilise our functionalities of OOP
 
-reptile_object = reptile()
+# reptile_object = reptile()
 
 # all functionalities inherited from animal class
-print(reptile_object.eat)
-print(reptile_object.breathe())
-print(reptile_object.procreate())
-
-# functionalities from current class
-print(reptile_object.hunt())
-print(reptile_object.use_venom())
+# print(reptile_object.eat)
+# print(reptile_object.breathe())
+# print(reptile_object.procreate())
+#
+# # functionalities from current class
+# print(reptile_object.hunt())
+# print(reptile_object.use_venom())
