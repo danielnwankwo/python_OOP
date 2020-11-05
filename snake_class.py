@@ -16,6 +16,7 @@ class snake(reptile):
 
 
 # instantiate this class/create an object
+# this is now a double inheritance
 
 snake_object = snake()
 
