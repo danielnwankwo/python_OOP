@@ -25,7 +25,9 @@ class animal:
 
 # creating the object of our animal class
 
-# cat = animal()
+cat = animal()
 # cat has now inherited all attributes and functions from the parent(animal) class
 # we have Abstracted eat() method from our parent class
 # print(cat.eat())
+
+print(cat.alive)

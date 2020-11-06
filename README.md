@@ -47,6 +47,6 @@
 - create the python class
 
 
-- __name__ and __main__ are used to check if the code is run from current file/directly from a different file/importing it
+- ``` __name__ ```   and   ``__main__``  are used to check if the code is run from current file/directly from a different file/importing it
 
-- we will create 2 files and use ``` __name__ `` and __main__ in both files and outcome with show the difference
+- we will create 2 files and use   ``` __name__ ```   and  ``` __main__  ``  in both files and outcome with show the difference
